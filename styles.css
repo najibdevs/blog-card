@@ -14,7 +14,7 @@
     --card-paragraph: hsl(0, 0%, 50%);
 }
 
-/* global styles */
+/* global style */
 body {
     display: flex;
     justify-content: center;
