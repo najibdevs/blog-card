@@ -2,7 +2,7 @@
 
 Welcome to the Blog Preview Card project! This project represents a beautiful and modern card-based design for displaying blog post previews.
 
-![Blog Preview Card](assets/images/desktop-design.jpg)
+![Blog Preview Card](design/desktop-design.jpg)
 
 ## Description
 
